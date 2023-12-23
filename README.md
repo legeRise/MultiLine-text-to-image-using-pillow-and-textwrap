@@ -1,6 +1,6 @@
-# Image Text Inserter
+# ADD MultiLine Text to Image using Pillow and Textwrap
 
-This script allows you to add multiline text to an image, providing a simple way to customize images with captions or descriptions.
+This script allows you to add multiline text to an image using the Pillow library and textwrap, providing a simple way to customize images with captions or descriptions.
 
 ## Features
 
@@ -11,15 +11,15 @@ This script allows you to add multiline text to an image, providing a simple way
 ## Prerequisites
 
 - Python installed on your machine.
-- Required Python packages: `PIL` (Pillow).
+- Required Python packages: `Pillow`.
 
 ## Installation
 
 1. Clone the repository or download the script.
 
     ```bash
-    git clone https://github.com/your-username/image-text-inserter.git
-    cd image-text-inserter
+    git clone https://github.com/your-username/MultiLine-text-to-image-using-pillow-and-textwrap.git
+    cd MultiLine-text-to-image-using-pillow-and-textwrap
     ```
 
 2. Install the required packages.
@@ -37,7 +37,7 @@ This script allows you to add multiline text to an image, providing a simple way
 3. Run the script with the following command:
 
     ```bash
-    python image_text_inserter.py
+    python multi_line_text.py
     ```
 
 4. Check the output image (`changed.jpg`) in the same directory.
