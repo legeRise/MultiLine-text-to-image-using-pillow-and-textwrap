@@ -1,4 +1,4 @@
-# ADD MultiLine Text to Image using Pillow and Textwrap
+# ADD MultiLine Text to Image using Pillow
 
 This script allows you to add multiline text to an image using the Pillow library and textwrap, providing a simple way to customize images with captions or descriptions.
 
@@ -61,6 +61,7 @@ if __name__ == '__main__':
     text = 'Your custom multiline text goes here.'
     text_font = 25
     main(input_image, text, text_font)
+```
 
 
 
