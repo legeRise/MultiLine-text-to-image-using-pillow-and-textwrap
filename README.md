@@ -63,7 +63,7 @@ if __name__ == '__main__':
     main(input_image, text, text_font)
 ```
 
-![LandScape ](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/for-LANDSCAPE/assets/changed.jpg)
+![LandScape](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/for-LANDSCAPE/assets/changed.jpg)
 
 
 ### For PORTRAIT
@@ -71,5 +71,5 @@ if __name__ == '__main__':
 Same as above just replace 'test.png' with your desired image also rename it to 'test.png' and run the script. If 
 you don't want to rename it to 'test.png' you can edit the script to take image name instead of by-default 'test.png'
 
-![Portrait ](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/assets/for-PORTRAIT/test.png)
+![Portrait](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/assets/for-PORTRAIT/test.png)
 
