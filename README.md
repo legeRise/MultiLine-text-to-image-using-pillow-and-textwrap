@@ -30,6 +30,8 @@ This script allows you to add multiline text to an image using the Pillow librar
 
 ## Usage
 
+### For LANDSCAPE
+
 1. Place your input image (`input.jpg`) in the same directory as the script.
 
 2. Open a terminal and navigate to the script's directory.
@@ -59,3 +61,11 @@ if __name__ == '__main__':
     text = 'Your custom multiline text goes here.'
     text_font = 25
     main(input_image, text, text_font)
+
+
+
+### For PORTRAIT
+
+Same as above just replace 'test.png' with your desired image also rename it to 'test.png' and run the script. If 
+you don't want to rename it to 'test.png' you can edit the script to take image name instead of by-default 'test.png'
+
