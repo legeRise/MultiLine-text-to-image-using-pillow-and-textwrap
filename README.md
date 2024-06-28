@@ -63,11 +63,13 @@ if __name__ == '__main__':
     main(input_image, text, text_font)
 ```
 
-![LandScape ](https://github.com/legerise/ytshortmaker/raw/master/assets/for-LANDSCAPE/change.jpg)
+![LandScape ](https://github.com/legerise/ytshortmaker/raw/master/assets/for-LANDSCAPE/changed.jpg)
 
 
 ### For PORTRAIT
 
 Same as above just replace 'test.png' with your desired image also rename it to 'test.png' and run the script. If 
 you don't want to rename it to 'test.png' you can edit the script to take image name instead of by-default 'test.png'
+
+![Portrait ](https://github.com/legerise/ytshortmaker/raw/master/assets/for-PORTRAIT/test.png)
 
