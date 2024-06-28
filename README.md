@@ -63,6 +63,7 @@ if __name__ == '__main__':
     main(input_image, text, text_font)
 ```
 
+![LandScape ](https://github.com/legerise/ytshortmaker/raw/master/assets/for-LANDSCAPE/change.jpg)
 
 
 ### For PORTRAIT
