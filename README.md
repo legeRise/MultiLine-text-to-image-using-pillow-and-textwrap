@@ -63,7 +63,7 @@ if __name__ == '__main__':
     main(input_image, text, text_font)
 ```
 
-![LandScape ](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/assets/for-LANDSCAPE/changed.jpg)
+![LandScape ](https://github.com/legerise/MultiLine-text-to-image-using-pillow-and-textwrap/raw/master/for-LANDSCAPE/assets/changed.jpg)
 
 
 ### For PORTRAIT
